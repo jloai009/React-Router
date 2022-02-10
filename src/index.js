@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import ReactDOM from 'react-dom'
-import { Table } from 'react-bootstrap'
+import { Table, Form, Button } from 'react-bootstrap'
 
 import {
   BrowserRouter as Router,
